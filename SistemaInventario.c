@@ -18,9 +18,9 @@ int main() {
 
     do {
         printf("\n-----------------SISTEMA DE INVENTARIO - TIENDA DE CHOCOLATES-----------------\n\n");
-        printf("1. Ingresar producto\n");
-        printf("2. Imprimir productos\n");
-        printf("3. Buscar producto\n");
+        printf("1. Ingresar Chocolates\n");
+        printf("2. Imprimir Chocolates\n");
+        printf("3. Buscar Chocolate\n");
         printf("4. Salir\n");
         printf("\nIngrese su opcion: ");
         scanf("%d", &opcion);
